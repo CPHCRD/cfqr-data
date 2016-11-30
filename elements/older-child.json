@@ -1,0 +1,133 @@
+[
+  {
+    "key": "qst-older-child-introduction",
+    "type": "introduction"
+  },
+  {
+    "key": "qst-older-child-text-a",
+    "type": "text"
+  },
+  {
+    "key": "qst-older-child-section-demographic",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-older-child-section-demographic-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-older-child-question-birth",
+        "type": "date-input",
+        "id": "birth-date"
+      },
+      {
+        "key": "qst-older-child-question-gender",
+        "type": "question",
+        "id": "gender",
+        "answers": [
+          "qst-older-child-answer-gender-male",
+          "qst-older-child-answer-gender-female"
+        ]
+      },
+      {
+        "key": "qst-older-child-question-vacation",
+        "type": "question",
+        "id": "vacation",
+        "answers": [
+          "qst-older-child-answer-vacation-yes",
+          "qst-older-child-answer-vacation-no"
+        ]
+      },
+      {
+        "key": "qst-older-child-question-race",
+        "type": "question",
+        "id": "race",
+        "answers": [
+          "qst-older-child-answer-race-a",
+          "qst-older-child-answer-race-b",
+          "qst-older-child-answer-race-c",
+          "qst-older-child-answer-race-d",
+          "qst-older-child-answer-race-e",
+          "qst-older-child-answer-race-f",
+          "qst-older-child-answer-race-g"
+        ]
+      },
+      {
+        "key": "qst-older-child-question-grade",
+        "type": "question",
+        "id": "grade",
+        "answers": [
+          "qst-older-child-answer-grade-a",
+          "qst-older-child-answer-grade-b",
+          "qst-older-child-answer-grade-c",
+          "qst-older-child-answer-grade-d",
+          "qst-older-child-answer-grade-e",
+          "qst-older-child-answer-grade-f",
+          "qst-older-child-answer-grade-g"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "qst-older-child-section-symptoms",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-older-child-section-symptoms-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-older-child-group-a",
+        "type": "group",
+        "answers": [
+          "qst-older-child-answer-a-a",
+          "qst-older-child-answer-a-b", 
+          "qst-older-child-answer-a-c", 
+          "qst-older-child-answer-a-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-older-child-question-1",
+            "id": "question-1"
+          },
+          {
+            "key": "qst-older-child-question-2",
+            "id": "question-2"
+          },
+          {
+            "key": "qst-older-child-question-3",
+            "id": "question-3"
+          },
+          {
+            "key": "qst-older-child-question-4",
+            "id": "question-4"
+          },
+          {
+            "key": "qst-older-child-question-5",
+            "id": "question-5"
+          },
+          {
+            "key": "qst-older-child-question-6",
+            "id": "question-6"
+          }
+        ]
+      },
+      {
+        "key": "qst-older-child-group-b",
+        "type": "group",
+        "answers": [
+          "qst-older-child-answer-b-a",
+          "qst-older-child-answer-b-b", 
+          "qst-older-child-answer-b-c", 
+          "qst-older-child-answer-b-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-older-child-question-7",
+            "id": "question-7"
+          }
+        ]
+      }
+    ]
+  }
+]

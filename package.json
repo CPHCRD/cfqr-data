@@ -1,0 +1,29 @@
+{
+  "name": "cfqr-data",
+  "version": "0.1.0",
+  "description": "A data provider module.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFQR/cfqr-data.git"
+  },
+  "keywords": [
+    "cfqr"
+  ],
+  "author": "Jonathan Argentiero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFQR/cfqr-data/issues"
+  },
+  "homepage": "https://github.com/CFQR/cfqr-data#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
