@@ -1,9 +1,9 @@
 'use strict';
 
-const childParent = require(`./child-parent.json`);
-const olderChild = require(`./older-child.json`);
-const teenAdult = require(`./teen-adult.json`);
-const youngChild = require(`./young-child.json`);
+const childParent = require('./child-parent.json');
+const olderChild = require('./older-child.json');
+const teenAdult = require('./teen-adult.json');
+const youngChild = require('./young-child.json');
 
 let scores = {
   "qst-child-parent": childParent,
