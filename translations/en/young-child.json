@@ -2,7 +2,7 @@
   "qst-young-child": "CFQ-R Young Child",
   "qst-young-child-description": "Children Ages 6 to 11 (Interviewer Format)",
   "qst-young-child-introduction": "This questionnaire is formatted for use by an interviewer. Please use this format for younger children. For older children who seem able to read and answer the questions on their own, such as 12 and 13 year olds, use this questionnaire in its self-report format. There are directions for the interviewer for each section of the questionnaire. Directions that you should read to the child are indicated by quotation marks. Directions that you are to follow are underlined and set in italics.",
-  "qst-young-child-text-a": "Interviewer: please ask the following questions."
+  "qst-young-child-text-a": "Interviewer: please ask the following questions.",
   "qst-young-child-question-birth": "What's your birth date?",
   "qst-young-child-question-gender": "Are you?",
   "qst-young-child-answer-gender-male": "Male",
