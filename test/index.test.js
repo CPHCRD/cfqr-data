@@ -12,6 +12,11 @@ describe('questionnaire module', () => {
     expect(questionnaireData).to.be.an.object;
   });
 
+  it('should return the package version', () => {
+    expect(questionnaireData.version).to.be.defined;
+    expect(questionnaireData.version).to.be.a.string;
+  });
+
   it('should provide questionnaire elements', () => {
     expect(questionnaireData.elements).to.be.defined;
     expect(questionnaireData.elements).to.be.an.object;
