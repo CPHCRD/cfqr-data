@@ -26,5 +26,186 @@
   "question-7": {
     "type": "emotion",
     "score": [1, 2, 3, 4]
+  },
+    "question-8": {
+    "type": "emotion",
+    "score": [1, 2, 3, 4]
+  },
+  "question-9": {
+    "type": "emotion",
+    "score": [1, 2, 3, 4]
+  },
+  "question-10": {
+    "type": "emotion",
+    "score": [1, 2, 3, 4]
+  },
+  "question-11": {
+    "type": "emotion",
+    "score": [1, 2, 3, 4]
+  },
+  "question-12": {
+    "type": "emotion",
+    "score": [1, 2, 3, 4]
+  },
+  "question-13": {
+    "type": "emotion",
+    "score": [1, 2, 3, 4]
+  },
+  "question-14": {
+    "type": "emotion",
+    "score": [4, 3, 2, 1]
+  },
+    "question-15": {
+    "type": "eat",
+    "score": [1, 2, 3, 4]
+  },
+    "question-16": {
+    "type": "treat",
+    "score": [1, 2, 3, 4]
+  },
+    "question-17": {
+    "type": "eat",
+    "score": [1, 2, 3, 4]
+  },
+    "question-18": {
+    "type": "treat",
+    "score": [4, 3, 2, 1]
+  },
+    "question-19": {
+    "type": "eat",
+    "score": [4, 3, 2, 1]
+  },
+    "question-20": {
+    "type": "social",
+    "score": [4, 3, 2, 1]
+  },
+    "question-21": {
+    "type": "social",
+    "score": [1,2,3,4]
+  },
+    "question-22": {
+    "type": "social",
+    "score": [4, 3, 2, 1]
+  },
+    "question-23": {
+    "type": "social",
+    "score": [1, 2, 3, 4]
+  },
+    "question-24": {
+    "type": "social",
+    "score": [4, 3, 2, 1]
+  },
+    "question-25": {
+    "type": "social",
+    "score": [1, 2, 3, 4]
+  },
+    "question-26": {
+    "type": "social",
+    "score": [4, 3, 2, 1]
+  },
+    "question-27": {
+    "type": "body",
+    "score": [1, 2, 3, 4]
+  },
+    "question-28": {
+    "type": "body",
+    "score": [1, 2, 3, 4]
+  },
+    "question-29": {
+    "type": "body",
+    "score": [1, 2, 3, 4]
+  },
+    "question-30": {
+    "type": "treat",
+    "score": [1, 2, 3, 4]
+  },
+    "question-31": {
+    "type": "respirat",
+    "score": [1, 2, 3, 4]
+  },
+    "question-32": {
+    "type": "respirat",
+    "score": [1, 2, 3, 4]
+  },
+    "question-33": {
+    "type": "respirat",
+    "score": [1, 2, 3, 4]
+  },
+    "question-34": {
+    "type": "respirat",
+    "score": [1, 2, 3, 4]
+  },
+    "question-35": {
+    "type": "digest",
+    "score": [1, 2, 3, 4]
+  },
+    "question-36": {
+    "type": "digest",
+    "score": [1, 2, 3, 4]
+  },
+    "question-37": {
+    "type": "digest",
+    "score": [1, 2, 3, 4]
+  },
+    "question-38": {
+    "type": "digest",
+    "score": [1, 2, 3, 4]
+  },
+    "question-39": {
+    "type": "digest",
+    "score": [1, 2, 3, 4]   
+  },
+    "question-40": {
+    "type": "digest",
+    "score": [1, 2, 3, 4]   
+  },
+    "question-41": {
+    "type": "digest",
+    "score": [1, 2, 3, 4]       
+  },
+    "question-42": {
+    "type": "digest",
+    "score": [1, 2, 3, 4]   
+  },
+    "question-43": {
+    "type": "sinus",
+    "score": [1, 2, 3, 4]   
+  },
+    "question-44": {
+    "type": "sinus",
+    "score": [1, 2, 3, 4]     
+  },
+    "question-45": {
+    "type": "sinus",
+    "score": [1, 2, 3, 4]   
+  },
+    "question-46": {
+    "type": "sinus",
+    "score": [1, 2, 3, 4]    
   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 }
