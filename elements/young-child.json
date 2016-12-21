@@ -2,5 +2,345 @@
   {
     "key": "qst-young-child-introduction",
     "type": "introduction"
+  },
+  {
+    "key": "qst-young-child-instructions",
+    "type": "text"
+  },
+  {
+    "key": "qst-young-child-section-demographic",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-young-child-section-demographic-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-young-child-question-birth",
+        "type": "date-input",
+        "id": "birth-date"
+      },
+      {
+        "key": "qst-young-child-question-gender",
+        "type": "question",
+        "id": "gender",
+        "answers": [
+          "qst-young-child-answer-gender-male",
+          "qst-young-child-answer-gender-female"
+        ]
+      },
+      {
+        "key": "qst-young-child-question-vacation",
+        "type": "question",
+        "id": "vacation",
+        "answers": [
+          "qst-young-child-answer-vacation-yes",
+          "qst-young-child-answer-vacation-no"
+        ]
+      },
+      {
+        "key": "qst-young-child-question-race",
+        "type": "question",
+        "id": "race",
+        "answers": [
+          "qst-young-child-answer-race-a",
+          "qst-young-child-answer-race-b",
+          "qst-young-child-answer-race-c",
+          "qst-young-child-answer-race-d",
+          "qst-young-child-answer-race-e",
+          "qst-young-child-answer-race-f",
+          "qst-young-child-answer-race-g"
+        ]
+      },
+      {
+        "key": "qst-young-child-question-grade",
+        "type": "question",
+        "id": "grade",
+        "answers": [
+          "qst-young-child-answer-grade-a",
+          "qst-young-child-answer-grade-b",
+          "qst-young-child-answer-grade-c",
+          "qst-young-child-answer-grade-d",
+          "qst-young-child-answer-grade-e",
+          "qst-young-child-answer-grade-f",
+          "qst-young-child-answer-grade-g",
+          "qst-young-child-answer-grade-h",
+          "qst-young-child-answer-grade-i",
+          "qst-young-child-answer-grade-l"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "qst-young-child-section-symptoms",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-young-child-section-symptoms-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-young-child-group-a",
+        "type": "group",
+        "answers": [
+          "qst-young-child-answer-a-a",
+          "qst-young-child-answer-a-b", 
+          "qst-young-child-answer-a-c", 
+          "qst-young-child-answer-a-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-young-child-question-1",
+            "id": "question-1"
+          },
+          {
+            "key": "qst-young-child-question-2",
+            "id": "question-2"
+          },
+          {
+            "key": "qst-young-child-question-3",
+            "id": "question-3"
+          },
+          {
+            "key": "qst-young-child-question-4",
+            "id": "question-4"
+          },
+          {
+            "key": "qst-young-child-question-5",
+            "id": "question-5"
+          },
+          {
+            "key": "qst-young-child-question-6",
+            "id": "question-6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "qst-young-child-section-symptoms2",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-young-child-section-symptoms2-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-young-child-group-b",
+        "type": "group",
+        "answers": [
+          "qst-young-child-answer-b-a",
+          "qst-young-child-answer-b-b", 
+          "qst-young-child-answer-b-c", 
+          "qst-young-child-answer-b-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-young-child-question-7",
+            "id": "question-7"
+          },
+          {
+            "key": "qst-young-child-question-8",
+            "id": "question-8"
+          },
+          {
+            "key": "qst-young-child-question-9",
+            "id": "question-9"
+          },
+          {
+            "key": "qst-young-child-question-10",
+            "id": "question-10"
+          },
+          {
+            "key": "qst-young-child-question-11",
+            "id": "question-11"
+          },
+          {
+            "key": "qst-young-child-question-12",
+            "id": "question-12"
+          },
+          {
+            "key": "qst-young-child-question-13",
+            "id": "question-13"
+          },
+          {
+            "key": "qst-young-child-question-14",
+            "id": "question-14"
+          },
+          {
+            "key": "qst-young-child-question-15",
+            "id": "question-15"
+          },
+          {
+            "key": "qst-young-child-question-16",
+            "id": "question-16"
+          },
+          {
+            "key": "qst-young-child-question-17",
+            "id": "question-17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "qst-young-child-section-social",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-young-child-section-social-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-young-child-group-c",
+        "type": "group",
+        "answers": [
+          "qst-young-child-answer-c-a",
+          "qst-young-child-answer-c-b", 
+          "qst-young-child-answer-c-c", 
+          "qst-young-child-answer-c-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-young-child-question-18",
+            "id": "question-18"
+          },
+          {
+            "key": "qst-young-child-question-19",
+            "id": "question-19"
+          },
+          {
+            "key": "qst-young-child-question-20",
+            "id": "question-20"
+          },
+          {
+            "key": "qst-young-child-question-21",
+            "id": "question-21"
+          },
+          {
+            "key": "qst-young-child-question-22",
+            "id": "question-22"
+          },
+          {
+            "key": "qst-young-child-question-23",
+            "id": "question-23"
+          },
+          {
+            "key": "qst-young-child-question-24",
+            "id": "question-24"
+          },
+          {
+            "key": "qst-young-child-question-25",
+            "id": "question-25"
+          },
+          {
+            "key": "qst-young-child-question-26",
+            "id": "question-26"
+          },
+          {
+            "key": "qst-young-child-question-27",
+            "id": "question-27"
+          },
+          {
+            "key": "qst-young-child-question-28",
+            "id": "question-28"
+          },
+          {
+            "key": "qst-young-child-question-29",
+            "id": "question-29"
+          },
+          {
+            "key": "qst-young-child-question-30",
+            "id": "question-30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "qst-young-child-section-symptoms3",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-young-child-section-symptoms3-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-young-child-group-d",
+        "type": "group",
+        "answers": [
+          "qst-young-child-answer-d-a",
+          "qst-young-child-answer-d-b", 
+          "qst-young-child-answer-d-c", 
+          "qst-young-child-answer-d-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-young-child-question-31",
+            "id": "question-31"
+          },
+          {
+            "key": "qst-young-child-question-32",
+            "id": "question-32"
+          },
+          {
+            "key": "qst-young-child-question-33",
+            "id": "question-33"
+          },
+          {
+            "key": "qst-young-child-question-34",
+            "id": "question-34"
+          },
+          {
+            "key": "qst-young-child-question-35",
+            "id": "question-35"
+          },
+          {
+            "key": "qst-young-child-question-36",
+            "id": "question-36"
+          },
+          {
+            "key": "qst-young-child-question-37",
+            "id": "question-37"
+          },
+          {
+            "key": "qst-young-child-question-38",
+            "id": "question-38"
+          },
+          {
+            "key": "qst-young-child-question-39",
+            "id": "question-39"
+          },
+          {
+            "key": "qst-young-child-question-40",
+            "id": "question-40"
+          },
+          {
+            "key": "qst-young-child-question-41",
+            "id": "question-41"
+          },
+          {
+            "key": "qst-young-child-question-42",
+            "id": "question-42"
+          },
+          {
+            "key": "qst-young-child-question-43",
+            "id": "question-43"
+          },
+          {
+            "key": "qst-young-child-question-44",
+            "id": "question-44"
+          },
+          {
+            "key": "qst-young-child-question-45",
+            "id": "question-45"
+          },
+          {
+            "key": "qst-young-child-question-46",
+            "id": "question-46"
+          }
+        ]
+      }
+    ]
   }
 ]
