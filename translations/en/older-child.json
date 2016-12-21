@@ -2,7 +2,7 @@
   "qst-older-child": "CFQ-R Older Child",
   "qst-older-child-description": "Children Ages 12 and 13 (Self-report Format)",
   "qst-older-child-introduction": "These questions are for children like you who have cystic fibrosis. Your answers will help us understand what this disease is like and how your treatments help you. So, answering these questions will help you and others like you in the future.",
-  "qst-older-child-text-a": "Please answer all the questions. There are no right or wrong answers! If you are not sure how to answer, choose the response that seems closest to your situation.",
+  "qst-older-child-instructions": "Please answer all the questions. There are no right or wrong answers! If you are not sure how to answer, choose the response that seems closest to your situation.",
   "qst-older-child-section-demographic": "Demographic",
   "qst-older-child-section-demographic-introduction": "Please fill in the answer or check the box that matches your response to these questions.",
   "qst-older-child-question-birth": "What's your birth date?",
