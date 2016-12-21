@@ -2,5 +2,490 @@
   {
     "key": "qst-teen-adult-introduction",
     "type": "introduction"
+  },
+  {
+    "key": "qst-teen-adult-instructions",
+    "type": "text"
+  },
+  {
+    "key": "qst-teen-adult-section-demographic",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-teen-adult-section-demographic-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-teen-adult-question-birth",
+        "type": "date-input",
+        "id": "birth-date"
+      },
+      {
+        "key": "qst-teen-adult-question-gender",
+        "type": "question",
+        "id": "gender",
+        "answers": [
+          "qst-teen-adult-answer-gender-male",
+          "qst-teen-adult-answer-gender-female"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-question-vacation",
+        "type": "question",
+        "id": "vacation",
+        "answers": [
+          "qst-teen-adult-answer-vacation-yes",
+          "qst-teen-adult-answer-vacation-no"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-question-race",
+        "type": "question",
+        "id": "race",
+        "answers": [
+          "qst-teen-adult-answer-race-a",
+          "qst-teen-adult-answer-race-b",
+          "qst-teen-adult-answer-race-c",
+          "qst-teen-adult-answer-race-d",
+          "qst-teen-adult-answer-race-e",
+          "qst-teen-adult-answer-race-f",
+          "qst-teen-adult-answer-race-g"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-question-grade",
+        "type": "question",
+        "id": "grade",
+        "answers": [
+          "qst-teen-adult-answer-grade-a",
+          "qst-teen-adult-answer-grade-b",
+          "qst-teen-adult-answer-grade-c",
+          "qst-teen-adult-answer-grade-d",
+          "qst-teen-adult-answer-grade-e",
+          "qst-teen-adult-answer-grade-f"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-question-workstatus",
+        "type": "question",
+        "id": "workstatus",
+        "answers": [
+          "qst-teen-adult-answer-workstatus-a",
+          "qst-teen-adult-answer-workstatus-b",
+          "qst-teen-adult-answer-workstatus-c",
+          "qst-teen-adult-answer-workstatus-d",
+          "qst-teen-adult-answer-workstatus-e",
+          "qst-teen-adult-answer-workstatus-f",
+          "qst-teen-adult-answer-workstatus-g"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "qst-teen-adult-section-qualityoflife",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-teen-adult-section-qualityoflife-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-teen-adult-group-a",
+        "type": "group",
+        "answers": [
+          "qst-teen-adult-answer-a-a",
+          "qst-teen-adult-answer-a-b", 
+          "qst-teen-adult-answer-a-c", 
+          "qst-teen-adult-answer-a-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-teen-adult-question-1",
+            "id": "question-1"
+          },
+          {
+            "key": "qst-teen-adult-question-2",
+            "id": "question-2"
+          },
+          {
+            "key": "qst-teen-adult-question-3",
+            "id": "question-3"
+          },
+          {
+            "key": "qst-teen-adult-question-4",
+            "id": "question-4"
+          },
+          {
+            "key": "qst-teen-adult-question-5",
+            "id": "question-5"
+          }
+        ]
+      },
+      {
+        "key": "qst-teen-adult-group-b",
+        "type": "group",
+        "answers": [
+          "qst-teen-adult-answer-b-a",
+          "qst-teen-adult-answer-b-b", 
+          "qst-teen-adult-answer-b-c", 
+          "qst-teen-adult-answer-b-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-teen-adult-question-6",
+            "id": "question-6"
+          },
+          {
+            "key": "qst-teen-adult-question-7",
+            "id": "question-7"
+          },
+          {
+            "key": "qst-teen-adult-question-8",
+            "id": "question-8"
+          },
+          {
+            "key": "qst-teen-adult-question-9",
+            "id": "question-9"
+          },
+          {
+            "key": "qst-teen-adult-question-10",
+            "id": "question-10"
+          },
+          {
+            "key": "qst-teen-adult-question-11",
+            "id": "question-11"
+          },
+          {
+            "key": "qst-teen-adult-question-12",
+            "id": "question-12"
+          }
+        ]
+      },
+      {
+        "key": "qst-teen-adult-section-qualityoflife-sentence",
+        "type": "text"
+      },      
+      {
+        "key": "qst-teen-adult-question-13",
+        "type": "question",
+        "id": "question-13",
+        "answers": [
+          "qst-teen-adult-answer-13-a",
+          "qst-teen-adult-answer-13-b",
+          "qst-teen-adult-answer-13-c",
+          "qst-teen-adult-answer-13-d"
+        ]
+      },      
+      {
+        "key": "qst-teen-adult-question-14",
+        "type": "question",
+        "id": "question-14",
+        "answers": [
+          "qst-teen-adult-answer-14-a",
+          "qst-teen-adult-answer-14-b",
+          "qst-teen-adult-answer-14-c",
+          "qst-teen-adult-answer-14-d"
+        ]
+      },      
+      {
+        "key": "qst-teen-adult-question-15",
+        "type": "question",
+        "id": "question-15",
+        "answers": [
+          "qst-teen-adult-answer-15-a",
+          "qst-teen-adult-answer-15-b",
+          "qst-teen-adult-answer-15-c",
+          "qst-teen-adult-answer-15-d"
+        ]
+      },      
+      {
+        "key": "qst-teen-adult-question-16",
+        "type": "question",
+        "id": "question-16",
+        "answers": [
+          "qst-teen-adult-answer-16-a",
+          "qst-teen-adult-answer-16-b",
+          "qst-teen-adult-answer-16-c",
+          "qst-teen-adult-answer-16-d"
+        ]
+      },      
+      {
+        "key": "qst-teen-adult-question-17",
+        "type": "question",
+        "id": "question-17",
+        "answers": [
+          "qst-teen-adult-answer-17-a",
+          "qst-teen-adult-answer-17-b",
+          "qst-teen-adult-answer-17-c",
+          "qst-teen-adult-answer-17-d"
+        ]
+      },      
+      {
+        "key": "qst-teen-adult-question-18",
+        "type": "question",
+        "id": "question-18",
+        "answers": [
+          "qst-teen-adult-answer-18-a",
+          "qst-teen-adult-answer-18-b",
+          "qst-teen-adult-answer-18-c",
+          "qst-teen-adult-answer-18-d"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-group-c",
+        "type": "group",
+        "answers": [
+          "qst-teen-adult-answer-c-a",
+          "qst-teen-adult-answer-c-b", 
+          "qst-teen-adult-answer-c-c", 
+          "qst-teen-adult-answer-c-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-teen-adult-question-19",
+            "id": "question-19"
+          },
+          {
+            "key": "qst-teen-adult-question-20",
+            "id": "question-20"
+          },
+          {
+            "key": "qst-teen-adult-question-21",
+            "id": "question-21"
+          },
+          {
+            "key": "qst-teen-adult-question-22",
+            "id": "question-22"
+          },
+          {
+            "key": "qst-teen-adult-question-23",
+            "id": "question-23"
+          },
+          {
+            "key": "qst-teen-adult-question-24",
+            "id": "question-24"
+          },
+          {
+            "key": "qst-teen-adult-question-25",
+            "id": "question-25"
+          },
+          {
+            "key": "qst-teen-adult-question-26",
+            "id": "question-26"
+          },
+          {
+            "key": "qst-teen-adult-question-27",
+            "id": "question-27"
+          },
+          {
+            "key": "qst-teen-adult-question-28",
+            "id": "question-28"
+          },
+          {
+            "key": "qst-teen-adult-question-29",
+            "id": "question-29"
+          },
+          {
+            "key": "qst-teen-adult-question-30",
+            "id": "question-30"
+          },
+          {
+            "key": "qst-teen-adult-question-31",
+            "id": "question-31"
+          },
+          {
+            "key": "qst-teen-adult-question-32",
+            "id": "question-32"
+          },
+          {
+            "key": "qst-teen-adult-question-33",
+            "id": "question-33"
+          },
+          {
+            "key": "qst-teen-adult-question-34",
+            "id": "question-34"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "qst-teen-adult-section-school",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-teen-adult-section-school-introduction",
+        "type": "text"
+      },
+      {
+        "key": "qst-teen-adult-question-35",
+        "type": "question",
+        "id": "question-35",
+        "answers": [
+          "qst-teen-adult-answer-35-a",
+          "qst-teen-adult-answer-35-b",
+          "qst-teen-adult-answer-35-c",
+          "qst-teen-adult-answer-35-d"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-question-36",
+        "type": "question",
+        "id": "question-36",
+        "answers": [
+          "qst-teen-adult-answer-36-a",
+          "qst-teen-adult-answer-36-b",
+          "qst-teen-adult-answer-36-c",
+          "qst-teen-adult-answer-36-d"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-question-37",
+        "type": "question",
+        "id": "question-37",
+        "answers": [
+          "qst-teen-adult-answer-37-a",
+          "qst-teen-adult-answer-37-b",
+          "qst-teen-adult-answer-37-c",
+          "qst-teen-adult-answer-37-d"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-question-38",
+        "type": "question",
+        "id": "question-38",
+        "answers": [
+          "qst-teen-adult-answer-38-a",
+          "qst-teen-adult-answer-38-b",
+          "qst-teen-adult-answer-38-c",
+          "qst-teen-adult-answer-38-d"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "qst-teen-adult-section-symptoms",
+    "type": "section",
+    "content": [
+      {
+        "key": "qst-teen-adult-group-d",
+        "type": "group",
+        "answers": [
+          "qst-teen-adult-answer-d-a",
+          "qst-teen-adult-answer-d-b", 
+          "qst-teen-adult-answer-d-c", 
+          "qst-teen-adult-answer-d-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-teen-adult-question-39",
+            "id": "question-39"
+          },
+          {
+            "key": "qst-teen-adult-question-40",
+            "id": "question-40"
+          },
+          {
+            "key": "qst-teen-adult-question-41",
+            "id": "question-41"
+          },
+          {
+            "key": "qst-teen-adult-question-42",
+            "id": "question-42"
+          }
+        ]
+      },
+      {
+        "key": "qst-teen-adult-question-43",
+        "type": "question",
+        "id": "question-43",
+        "answers": [
+          "qst-teen-adult-answer-43-a",
+          "qst-teen-adult-answer-43-b",
+          "qst-teen-adult-answer-43-c",
+          "qst-teen-adult-answer-43-d"
+        ]
+      },
+      {
+        "key": "qst-teen-adult-group-e",
+        "type": "group",
+        "answers": [
+          "qst-teen-adult-answer-e-a",
+          "qst-teen-adult-answer-e-b", 
+          "qst-teen-adult-answer-e-c", 
+          "qst-teen-adult-answer-e-d"
+        ],
+        "questions": [
+          {
+            "key": "qst-teen-adult-question-44",
+            "id": "question-44"
+          },
+          {
+            "key": "qst-teen-adult-question-45",
+            "id": "question-45"
+          },
+          {
+            "key": "qst-teen-adult-question-46",
+            "id": "question-46"
+          },
+          {
+            "key": "qst-teen-adult-question-47",
+            "id": "question-47"
+          },
+          {
+            "key": "qst-teen-adult-question-48",
+            "id": "question-48"
+          },
+          {
+            "key": "qst-teen-adult-question-49",
+            "id": "question-49"
+          },
+          {
+            "key": "qst-teen-adult-question-50",
+            "id": "question-50"
+          },
+          {
+            "key": "qst-teen-adult-question-51",
+            "id": "question-51"
+          },
+          {
+            "key": "qst-teen-adult-question-52",
+            "id": "question-52"
+          },
+          {
+            "key": "qst-teen-adult-question-53",
+            "id": "question-53"
+          },
+          {
+            "key": "qst-teen-adult-question-54",
+            "id": "question-54"
+          },
+          {
+            "key": "qst-teen-adult-question-55",
+            "id": "question-55"
+          },
+          {
+            "key": "qst-teen-adult-question-56",
+            "id": "question-56"
+          },
+          {
+            "key": "qst-teen-adult-question-57",
+            "id": "question-57"
+          },
+          {
+            "key": "qst-teen-adult-question-58",
+            "id": "question-58"
+          },
+          {
+            "key": "qst-teen-adult-question-59",
+            "id": "question-59"
+          },
+          {
+            "key": "qst-teen-adult-question-60",
+            "id": "question-60"
+          }
+        ]
+      },
+    ]
   }
 ]
