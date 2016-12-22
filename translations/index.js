@@ -1,6 +1,6 @@
 'use strict';
 
-const enUS = require('./en');
+const enUS = require('./en-US');
 
 let translations = {
   "en-US": enUS
