@@ -75,7 +75,7 @@
       {
         "key": "qst-child-parent-question-marital",
         "type": "question",
-        "id": "race",
+        "id": "marital",
         "answers": [
           "qst-child-parent-answer-marital-a",
           "qst-child-parent-answer-marital-b",
