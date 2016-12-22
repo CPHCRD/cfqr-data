@@ -30,15 +30,6 @@
         ]
       },
       {
-        "key": "qst-young-child-question-vacation",
-        "type": "question",
-        "id": "vacation",
-        "answers": [
-          "qst-young-child-answer-vacation-yes",
-          "qst-young-child-answer-vacation-no"
-        ]
-      },
-      {
         "key": "qst-young-child-question-race",
         "type": "question",
         "id": "race",
@@ -65,8 +56,7 @@
           "qst-young-child-answer-grade-f",
           "qst-young-child-answer-grade-g",
           "qst-young-child-answer-grade-h",
-          "qst-young-child-answer-grade-i",
-          "qst-young-child-answer-grade-l"
+          "qst-young-child-answer-grade-i"
         ]
       }
     ]
