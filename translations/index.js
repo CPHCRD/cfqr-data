@@ -1,9 +1,9 @@
 'use strict';
 
-const en = require('./en');
+const enUS = require('./en');
 
 let translations = {
-  en
+  "en-US": enUS
 };
 
 module.exports = exports = translations;
