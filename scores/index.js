@@ -5,7 +5,7 @@ const olderChild = require('./older-child.json');
 const teenAdult = require('./teen-adult.json');
 const youngChild = require('./young-child.json');
 
-let scores = {
+var scores = {
   "qst-child-parent": childParent,
   "qst-older-child": olderChild,
   "qst-teen-adult": teenAdult,

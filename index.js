@@ -6,11 +6,11 @@ const elements = require('./elements');
 const scores = require('./scores');
 const translations = require('./translations');
 
-let questionnaireData = {
-  version,
-  elements,
-  scores,
-  translations
+var questionnaireData = {
+  version: version,
+  elements: elements,
+  scores: scores,
+  translations: translations
 };
 
 module.exports = exports = questionnaireData;

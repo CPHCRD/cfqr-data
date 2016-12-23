@@ -5,7 +5,7 @@ const olderChildTranslation = require('./older-child.json');
 const teenAdultTranslation = require('./teen-adult.json');
 const youngChildTranslation = require('./young-child.json');
 
-let translation = {
+var translation = {
   "qst-young-child": youngChildTranslation,
   "qst-older-child": olderChildTranslation,
   "qst-teen-adult": teenAdultTranslation,

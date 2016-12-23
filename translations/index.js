@@ -2,7 +2,7 @@
 
 const enUS = require('./en-US');
 
-let translations = {
+var translations = {
   "en-US": enUS
 };
 
