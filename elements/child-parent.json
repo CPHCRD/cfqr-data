@@ -75,7 +75,7 @@
       {
         "key": "qst-child-parent-question-marital",
         "type": "question",
-        "id": "marital",
+        "id": "marital-parent",
         "answers": [
           "qst-child-parent-answer-marital-a",
           "qst-child-parent-answer-marital-b",
@@ -89,7 +89,7 @@
       {
         "key": "qst-child-parent-question-school",
         "type": "question",
-        "id": "school",
+        "id": "school-parent",
         "answers": [
           "qst-child-parent-answer-school-a",
           "qst-child-parent-answer-school-b",
@@ -102,7 +102,7 @@
       {
         "key": "qst-child-parent-question-work",
         "type": "question",
-        "id": "work",
+        "id": "work-parent",
         "answers": [
           "qst-child-parent-answer-work-a",
           "qst-child-parent-answer-work-b",
