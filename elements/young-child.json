@@ -46,7 +46,7 @@
       {
         "key": "qst-young-child-question-grade",
         "type": "question",
-        "id": "grade",
+        "id": "grade-young-child",
         "answers": [
           "qst-young-child-answer-grade-a",
           "qst-young-child-answer-grade-b",

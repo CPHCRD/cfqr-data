@@ -55,7 +55,7 @@
       {
         "key": "qst-teen-adult-question-grade",
         "type": "question",
-        "id": "grade",
+        "id": "grade-teen-adult",
         "answers": [
           "qst-teen-adult-answer-grade-a",
           "qst-teen-adult-answer-grade-b",
