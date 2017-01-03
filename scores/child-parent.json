@@ -143,6 +143,10 @@
     "type": "respirat",
     "score": [1, 2, 3, 4]
   },
+    "question-37": {
+    "type": "respirat",
+    "score": [4, 3, 2, 1]
+  },    
     "question-38": {
     "type": "respirat",
     "score": [1, 2, 3, 4]
