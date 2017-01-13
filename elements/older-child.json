@@ -268,7 +268,8 @@
           },
           {
             "key": "qst-older-child-question-37",
-            "id": "question-37"
+            "id": "question-37",
+            "doesnt-apply": true
           },
           {
             "key": "qst-older-child-question-38",
@@ -284,7 +285,8 @@
           },
           {
             "key": "qst-older-child-question-41",
-            "id": "question-41"
+            "id": "question-41",
+            "doesnt-apply": true
           },
           {
             "key": "qst-older-child-question-42",

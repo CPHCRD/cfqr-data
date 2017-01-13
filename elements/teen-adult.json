@@ -446,7 +446,8 @@
           },
           {
             "key": "qst-teen-adult-question-51",
-            "id": "question-51"
+            "id": "question-51",
+            "doesnt-apply": true
           },
           {
             "key": "qst-teen-adult-question-52",

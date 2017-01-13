@@ -291,7 +291,8 @@
           },
           {
             "key": "qst-young-child-question-37",
-            "id": "question-37"
+            "id": "question-37",
+            "doesnt-apply": true
           },
           {
             "key": "qst-young-child-question-38",
@@ -307,7 +308,8 @@
           },
           {
             "key": "qst-young-child-question-41",
-            "id": "question-41"
+            "id": "question-41",
+            "doesnt-apply": true
           },
           {
             "key": "qst-young-child-question-42",

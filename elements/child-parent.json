@@ -404,7 +404,8 @@
           },
           {
             "key": "qst-child-parent-question-45",
-            "id": "question-45"
+            "id": "question-45",
+            "doesnt-apply": true
           },
           {
             "key": "qst-child-parent-question-46",
@@ -420,7 +421,8 @@
           },
           {
             "key": "qst-child-parent-question-49",
-            "id": "question-49"
+            "id": "question-49",
+            "doesnt-apply": true
           },
           {
             "key": "qst-child-parent-question-50",
