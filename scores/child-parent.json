@@ -177,7 +177,7 @@
   },
     "question-45": {
     "type": "treat",
-    "score": [1, 2, 3, 4]   
+    "score": [1, 2, 3, 4, -1]   
   },
     "question-46": {
     "type": "digest",
@@ -193,7 +193,7 @@
   },
     "question-49": {
     "type": "treat",
-    "score": [1, 2, 3, 4]    
+    "score": [1, 2, 3, 4, -1]    
   },
     "question-50": {
     "type": "digest",

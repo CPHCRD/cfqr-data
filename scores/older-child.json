@@ -145,7 +145,7 @@
   },
     "question-37": {
     "type": "digest",
-    "score": [1, 2, 3, 4]
+    "score": [1, 2, 3, 4, -1]
   },
     "question-38": {
     "type": "digest",
@@ -161,7 +161,7 @@
   },
     "question-41": {
     "type": "digest",
-    "score": [1, 2, 3, 4]       
+    "score": [1, 2, 3, 4, -1]       
   },
     "question-42": {
     "type": "digest",

@@ -201,7 +201,7 @@
   },
   "question-51": {
     "type": "treat",
-    "score": [1, 2, 3, 4]
+    "score": [1, 2, 3, 4, -1]
   },
   "question-52": {
     "type": "digest",
