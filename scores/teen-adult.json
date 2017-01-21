@@ -167,10 +167,6 @@
     "type": "respirat",
     "score": [1, 2, 3, 4]
   },
-  "question-43": {
-    "type": "respirat",
-    "score": [4, 3, 2, 1]
-  },
   "question-44": {
     "type": "respirat",
     "score": [1, 2, 3, 4]
@@ -197,46 +193,6 @@
   },
   "question-50": {
     "type": "eat",
-    "score": [1, 2, 3, 4]
-  },
-  "question-51": {
-    "type": "treat",
-    "score": [1, 2, 3, 4, -1]
-  },
-  "question-52": {
-    "type": "digest",
-    "score": [1, 2, 3, 4]
-  },
-  "question-53": {
-    "type": "digest",
-    "score": [1, 2, 3, 4]
-  },
-  "question-54": {
-    "type": "digest",
-    "score": [1, 2, 3, 4]
-  },
-  "question-55": {
-    "type": "digest",
-    "score": [1, 2, 3, 4]
-  },
-  "question-56": {
-    "type": "sinus",
-    "score": [1, 2, 3, 4]
-  },
-  "question-57": {
-    "type": "sinus",
-    "score": [1, 2, 3, 4]
-  },
-  "question-58": {
-    "type": "sinus",
-    "score": [1, 2, 3, 4]
-  },
-  "question-59": {
-    "type": "sinus",
-    "score": [1, 2, 3, 4]
-  },
-  "question-60": {
-    "type": "sinus",
     "score": [1, 2, 3, 4]
   }
 }

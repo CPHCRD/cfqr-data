@@ -352,16 +352,16 @@
         ]
       },
       {
-        "key": "qst-child-parent-question-37",
+        "key": "qst-child-parent-question-mucus",
         "type": "question",
-        "id": "question-37",
+        "id": "question-mucus",
         "answers": [
-          "qst-child-parent-answer-37-a",
-          "qst-child-parent-answer-37-b",
-          "qst-child-parent-answer-37-c",
-          "qst-child-parent-answer-37-d",
-          "qst-child-parent-answer-37-e",
-          "qst-child-parent-answer-37-f"
+          "qst-child-parent-answer-mucus-a",
+          "qst-child-parent-answer-mucus-b",
+          "qst-child-parent-answer-mucus-c",
+          "qst-child-parent-answer-mucus-d",
+          "qst-child-parent-answer-mucus-e",
+          "qst-child-parent-answer-mucus-f"
         ]
       },
       {
@@ -401,52 +401,6 @@
           {
             "key": "qst-child-parent-question-44",
             "id": "question-44"
-          },
-          {
-            "key": "qst-child-parent-question-45",
-            "id": "question-45",
-            "doesnt-apply": true
-          },
-          {
-            "key": "qst-child-parent-question-46",
-            "id": "question-46"
-          },
-          {
-            "key": "qst-child-parent-question-47",
-            "id": "question-47"
-          },
-          {
-            "key": "qst-child-parent-question-48",
-            "id": "question-48"
-          },
-          {
-            "key": "qst-child-parent-question-49",
-            "id": "question-49",
-            "doesnt-apply": true
-          },
-          {
-            "key": "qst-child-parent-question-50",
-            "id": "question-50"
-          },
-          {
-            "key": "qst-child-parent-question-51",
-            "id": "question-51"
-          },
-          {
-            "key": "qst-child-parent-question-52",
-            "id": "question-52"
-          },
-          {
-            "key": "qst-child-parent-question-53",
-            "id": "question-53"
-          },
-          {
-            "key": "qst-child-parent-question-54",
-            "id": "question-54"
-          },
-          {
-            "key": "qst-child-parent-question-55",
-            "id": "question-55"
           }
         ]
       }

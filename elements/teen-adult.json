@@ -396,14 +396,16 @@
         ]
       },
       {
-        "key": "qst-teen-adult-question-43",
+        "key": "qst-teen-adult-question-mucus",
         "type": "question",
-        "id": "question-43",
+        "id": "question-mucus",
         "answers": [
-          "qst-teen-adult-answer-43-a",
-          "qst-teen-adult-answer-43-b",
-          "qst-teen-adult-answer-43-c",
-          "qst-teen-adult-answer-43-d"
+          "qst-child-parent-answer-mucus-a",
+          "qst-child-parent-answer-mucus-b",
+          "qst-child-parent-answer-mucus-c",
+          "qst-child-parent-answer-mucus-d",
+          "qst-child-parent-answer-mucus-e",
+          "qst-child-parent-answer-mucus-f"
         ]
       },
       {
@@ -443,47 +445,6 @@
           {
             "key": "qst-teen-adult-question-50",
             "id": "question-50"
-          },
-          {
-            "key": "qst-teen-adult-question-51",
-            "id": "question-51",
-            "doesnt-apply": true
-          },
-          {
-            "key": "qst-teen-adult-question-52",
-            "id": "question-52"
-          },
-          {
-            "key": "qst-teen-adult-question-53",
-            "id": "question-53"
-          },
-          {
-            "key": "qst-teen-adult-question-54",
-            "id": "question-54"
-          },
-          {
-            "key": "qst-teen-adult-question-55",
-            "id": "question-55"
-          },
-          {
-            "key": "qst-teen-adult-question-56",
-            "id": "question-56"
-          },
-          {
-            "key": "qst-teen-adult-question-57",
-            "id": "question-57"
-          },
-          {
-            "key": "qst-teen-adult-question-58",
-            "id": "question-58"
-          },
-          {
-            "key": "qst-teen-adult-question-59",
-            "id": "question-59"
-          },
-          {
-            "key": "qst-teen-adult-question-60",
-            "id": "question-60"
           }
         ]
       }
