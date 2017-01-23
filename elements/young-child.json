@@ -30,6 +30,15 @@
         ]
       },
       {
+        "key": "qst-young-child-question-vacation",
+        "type": "question",
+        "id": "vacation",
+        "answers": [
+          "qst-young-child-answer-vacation-yes",
+          "qst-young-child-answer-vacation-no"
+        ]
+      },
+      {
         "key": "qst-young-child-question-race",
         "type": "question",
         "id": "race",

@@ -39,6 +39,20 @@
         ]
       },
       {
+        "key": "qst-teen-adult-question-marital",
+        "type": "question",
+        "id": "marital",
+        "answers": [
+          "qst-teen-adult-answer-marital-a",
+          "qst-teen-adult-answer-marital-b",
+          "qst-teen-adult-answer-marital-c",
+          "qst-teen-adult-answer-marital-d",
+          "qst-teen-adult-answer-marital-e",
+          "qst-teen-adult-answer-marital-f",
+          "qst-teen-adult-answer-marital-g"
+        ]
+      },
+      {
         "key": "qst-teen-adult-question-race",
         "type": "question",
         "id": "race",
@@ -400,12 +414,12 @@
         "type": "question",
         "id": "question-mucus",
         "answers": [
-          "qst-child-parent-answer-mucus-a",
-          "qst-child-parent-answer-mucus-b",
-          "qst-child-parent-answer-mucus-c",
-          "qst-child-parent-answer-mucus-d",
-          "qst-child-parent-answer-mucus-e",
-          "qst-child-parent-answer-mucus-f"
+          "qst-teen-adult-answer-mucus-a",
+          "qst-teen-adult-answer-mucus-b",
+          "qst-teen-adult-answer-mucus-c",
+          "qst-teen-adult-answer-mucus-d",
+          "qst-teen-adult-answer-mucus-e",
+          "qst-teen-adult-answer-mucus-f"
         ]
       },
       {
