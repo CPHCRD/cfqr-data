@@ -3,7 +3,7 @@
 const daDK = require('./da-DK');
 const deDE = require('./de-DE');
 const enUS = require('./en-US');
-const enES = require('./es-ES');
+const esES = require('./es-ES');
 const frFR = require('./fr-FR');
 const itIT = require('./it-IT');
 const nlNL = require('./nl-NL');
@@ -13,7 +13,7 @@ var translations = {
   "da-DK": daDK,
   "de-DE": deDE,
   "en-US": enUS,
-  "en-ES": enES,
+  "es-ES": esES,
   "fr-FR": frFR,
   "it-IT": itIT,
   "nl-NL": nlNL,
