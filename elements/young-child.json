@@ -87,6 +87,7 @@
           "qst-young-child-answer-a-c", 
           "qst-young-child-answer-a-d"
         ],
+        "cards": "orange",
         "questions": [
           {
             "key": "qst-young-child-question-1",
@@ -133,6 +134,7 @@
           "qst-young-child-answer-b-c", 
           "qst-young-child-answer-b-d"
         ],
+        "cards": "blue",
         "questions": [
           {
             "key": "qst-young-child-question-7",
@@ -199,6 +201,7 @@
           "qst-young-child-answer-c-c", 
           "qst-young-child-answer-c-d"
         ],
+        "cards": "orange",
         "questions": [
           {
             "key": "qst-young-child-question-18",
@@ -273,6 +276,7 @@
           "qst-young-child-answer-d-c", 
           "qst-young-child-answer-d-d"
         ],
+        "cards": "blue",
         "questions": [
           {
             "key": "qst-young-child-question-31",
