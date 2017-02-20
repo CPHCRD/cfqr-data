@@ -41,4 +41,10 @@ describe('questionnaire module', () => {
     });
   });
 
+  it('should provide questionnaire config', () => {
+    expect(questionnaireData.config).to.be.defined;
+    expect(questionnaireData.config).to.be.an.object;
+    expect(Object.keys(questionnaireData.config).length).to.be.equal(questionnaireCount);
+  });
+
 });
