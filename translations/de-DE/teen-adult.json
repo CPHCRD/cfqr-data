@@ -4,6 +4,7 @@
   "qst-teen-adult-introduction": "Ihr Wissen über die Auswirkungen Ihrer Krankheit und der Therapie auf Ihren Alltag ist für den Arzt von großer Bedeutung, um Ihren Gesundheitszustand besser erfassen und die Behandlung exakter anpassen zu können. Wir haben zu diesem Zweck einen Fragebogen über die gesundheitsbezogene Lebensqualität erstellt, der sich an Menschen wendet, die an Mukoviszidose erkrankt sind. Die folgenden Fragen beziehen sich auf Ihre Gesundheit, so wie Sie sie aktuell empfinden. Diese Auskunft ermöglicht uns ein besseres Verständnis Ihrer Gefühle in Ihrem Alltag.",  
   "qst-teen-adult-instructions": "Wir möchten Sie bitten, den folgenden Fragebogen auszufüllen, indem Sie die entsprechende Antworten ankreuzen. Bitte lassen Sie keine Frage aus. Wenn Sie nicht genau wissen, welche Antwort korrekt ist, dann kreuzen Sie diejenige an, die Ihrer Situation am ehesten gerecht wird. Kreuzen Sie bei jeder Frage bitte nur eine Antwort an.",
   "qst-teen-adult-section1-demographic": "Die statistische Untersuchung",
+  "qst-teen-adult-section-demographic-introduction": "",
   "qst-teen-adult-question-birth": "Alter:",
   "qst-teen-adult-question-gender": "Geschlecht",
   "qst-teen-adult-answer-gender-male": "männlich",
