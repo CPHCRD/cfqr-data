@@ -1,13 +1,13 @@
 'use strict';
 
-const daDK = require('./da-DK');
-const deDE = require('./de-DE');
-const enUS = require('./en-US');
-const esES = require('./es-ES');
-const frFR = require('./fr-FR');
-const itIT = require('./it-IT');
-const nlNL = require('./nl-NL');
-const seSE = require('./se-SE');
+var daDK = require('./da-DK');
+var deDE = require('./de-DE');
+var enUS = require('./en-US');
+var esES = require('./es-ES');
+var frFR = require('./fr-FR');
+var itIT = require('./it-IT');
+var nlNL = require('./nl-NL');
+var seSE = require('./se-SE');
 
 var translations = {
   "da-DK": daDK,

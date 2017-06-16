@@ -1,11 +1,11 @@
 'use strict';
 
-const expect = require('chai').expect;
+var expect = require('chai').expect;
 
-const questionnaireData = require('../index.js');
+var questionnaireData = require('../index.js');
 
 describe('questionnaire module', () => {
-  const questionnaireCount = 4;
+  var questionnaireCount = 4;
 
   it('should return an object', () => {
     expect(questionnaireData).to.be.defined;

@@ -1,10 +1,10 @@
 
 'use strict';
 
-const childParentTranslation = require('./child-parent.json');
-const olderChildTranslation = require('./older-child.json');
-const teenAdultTranslation = require('./teen-adult.json');
-const youngChildTranslation = require('./young-child.json');
+var childParentTranslation = require('./child-parent.json');
+var olderChildTranslation = require('./older-child.json');
+var teenAdultTranslation = require('./teen-adult.json');
+var youngChildTranslation = require('./young-child.json');
 
 var translation = {
   "qst-young-child": youngChildTranslation,
