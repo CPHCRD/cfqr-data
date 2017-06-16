@@ -1,6 +1,6 @@
 {
   "name": "cfqr-data",
-  "version": "1.6.2",
+  "version": "1.7.0",
   "description": "A data provider module.",
   "main": "index.js",
   "directories": {
