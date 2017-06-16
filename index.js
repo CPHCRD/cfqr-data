@@ -1,10 +1,10 @@
 'use strict';
 
-const packageJson = require('./package.json');
-const version = packageJson.version;
-const elements = require('./elements');
-const scores = require('./scores');
-const translations = require('./translations');
+var packageJson = require('./package.json');
+var version = packageJson.version;
+var elements = require('./elements');
+var scores = require('./scores');
+var translations = require('./translations');
 
 var questionnaireData = {
   version: version,
