@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CFQR/cfqr-data.git"
+    "url": "git+https://github.com/cphcrd/cfqr-data.git"
   },
   "keywords": [
     "cfqr"
@@ -19,9 +19,9 @@
   "author": "Jonathan Argentiero",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CFQR/cfqr-data/issues"
+    "url": "https://github.com/cphcrd/cfqr-data/issues"
   },
-  "homepage": "https://github.com/CFQR/cfqr-data#readme",
+  "homepage": "https://github.com/cphcrd/cfqr-data#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
