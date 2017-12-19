@@ -1,6 +1,6 @@
 # cfqr-data
 
-[![Build Status](https://travis-ci.org/cphcrd/cfqr-data.svg?branch=master)](https://travis-ci.org/cphcrd/cfqr-data)
+[![Build Status](https://travis-ci.org/CPHCRD/cfqr-data.svg?branch=master)](https://travis-ci.org/CPHCRD/cfqr-data)
 
 > NOTE: This module is meant to use along with the [CFQR-app](https://github.com/cphcrd/cfqr-app) application!
 
