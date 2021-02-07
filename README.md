@@ -12,7 +12,7 @@ This project contains textual and numerical data usable by the CFQR questionnair
 
 ## How to contribute
 
-The data is entirely containted in `.json` files. These files can be edit directly on Github. You can fork this repository and open a pull-request with your modifications. The repository maintainers will take care of the release produces.
+The data is entirely contained in `.json` files. These files can be edit directly on Github. You can fork this repository and open a pull-request with your modifications. The repository maintainers will take care of the release produces.
 
 ## How to modify a questionnaire
 
