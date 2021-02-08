@@ -8,6 +8,7 @@ var frFR = require('./fr-FR');
 var itIT = require('./it-IT');
 var nlNL = require('./nl-NL');
 var seSE = require('./se-SE');
+var roRO = require('./ro-RO');
 
 var translations = {
   "da-DK": daDK,
@@ -18,6 +19,7 @@ var translations = {
   "it-IT": itIT,
   "nl-NL": nlNL,
   "se-SE": seSE,
+  "ro-RO": roRO,
 };
 
 module.exports = exports = translations;
